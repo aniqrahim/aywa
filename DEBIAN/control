@@ -1,0 +1,9 @@
+Package: com.aniq.aywa
+Name: aywa
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: OG Big Sur icons
+Author: aniq
+Maintainer: aniq
+Section: Themes
+Depends: com.spark.snowboard
